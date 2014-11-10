@@ -1,4 +1,4 @@
-=== DM WP SLIDER ===
+=== WP 3D SLICEBOX SLIDER ===
 Contributors: Dataman Computer Systems Pvt. Ltd.
 Donate Link: http://dataman.in/
 Tags: 3D slider, image, responsive, simple slider,3dslider
