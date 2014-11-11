@@ -1,7 +1,7 @@
 === WP 3D SLICEBOX SLIDER ===
 Contributors: Dataman Computer Systems Pvt. Ltd.
 Donate Link: http://dataman.in/
-Tags: 3D slider, slider plugin, creative Slider
+Tags: 3D slider, slider plugin, creative Slider.
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 1.0
@@ -63,7 +63,7 @@ Absolutely - you just need to use the [do_shortcode](http://codex.wordpress.org/
 
 == Changelog ==
 
-= 1.1 =
+= 1.0 =
 * Added shortcode attribute functionality for tweaking of slider options.
 
 
