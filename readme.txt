@@ -19,7 +19,7 @@ As of version 1.0, Please use '[wp3d-slider]' or `<?php echo do_shortcode('[wp3d
 
 = Credits =
 
-This plugin was written by @umakant with help and suggestions from several others including @dataman.
+This plugin was written by Umakant Sonwani at Dataman Computer Systems Pvt. Ltd.
 
 == Installation ==
 
