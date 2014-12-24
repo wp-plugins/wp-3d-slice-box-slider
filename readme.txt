@@ -2,7 +2,7 @@
 Contributors: Umakant_dataman, Dataman Computer Systems Pvt. Ltd.
 Donate Link: http://dataman.in/product-purchase.php
 Tags: 3D slider, slider plugin, creative Slider, slider plugin for wordpress, image slider for wordpress, 3d slider , Slice Slider
-wordpress, slider plugin wordpress, wordpress slider plugin, wp slider .
+wordpress, slider plugin wordpress, wordpress slider plugin, wp slider, wordpress slider plugin, wordpress slider plugin free, slider plugin wordpress, wordpress image slider plugin, wordpress plugin slider, best wordpress slider plugin, slider wordpress plugin, wordpress sliders, slider plugin for wordpress, free wordpress slider plugins, best free wordpress slider plugin, wp slider plugin, wp slider plugins, slider wp plugin, wp slider plugin free.
 plugin
 Requires at least: 3.0.1
 Tested up to: 4.0
