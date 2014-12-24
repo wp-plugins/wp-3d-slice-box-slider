@@ -1,5 +1,5 @@
 === WP 3D SLICEBOX SLIDER ===
-Contributors: Dataman Computer Systems Pvt. Ltd.
+Contributors: Umakant_dataman, Dataman Computer Systems Pvt. Ltd.
 Donate Link: http://dataman.in/product-purchase.php
 Tags: 3D slider, slider plugin, creative Slider, slider plugin for wordpress, image slider for wordpress, 3d slider , Slice Slider
 wordpress, slider plugin wordpress, wordpress slider plugin, wp slider .
