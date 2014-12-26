@@ -58,8 +58,7 @@ Absolutely - you just need to use the [do_shortcode](http://codex.wordpress.org/
 == Screenshots ==
 
 1. Admin list interface showing Slider images and titles.
-2. Admin image interface showing optional title, image and URL
-3. Example output.(see documentation).
+2. Example output.(see documentation).
 
 == Changelog ==
 
