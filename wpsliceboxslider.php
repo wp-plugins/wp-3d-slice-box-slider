@@ -1,8 +1,8 @@
 <?php
 /*
     Plugin Name: WP 3D Slice Box Slider
-    Description: WP 3D Slice Box is a WordPress 3D image slider plugin that makes use of CSS 3D Transforms and provides a graceful fallback for older browsers that don't support the new properties.
-    Author: Umakant Sonwani
+    Description: WP 3D Slice Box is a WordPress 3D image slider plugin. Easy to use with slider Post type.
+    Author: Umakant_dataman
     Version: 1.0
     Author URI: https://profiles.wordpress.org/umakant_dataman
 	License: GPLv2
