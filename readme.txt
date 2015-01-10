@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-WP 3D Slice Box is a WordPress 3D image slider plugin that makes use of CSS 3D Transforms and provides a graceful fallback for older browsers that don't support the new Properties.
+WP 3D Slice Box is a WordPress 3D image slider plugin. Easy to use with slider Post type.
 
 
 = Shortcode Options =
