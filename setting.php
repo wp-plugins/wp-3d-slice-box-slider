@@ -24,6 +24,7 @@ function sbs_plugin_settings() {
     $html = '</pre>
 <div class="wrap"><form action="options.php" method="post" name="options">
 <h2>Select Your Settings</h2>
+<h3>Please Use This ShortCode to Display Slider <pre>[wp3d-slider]</pre></h3>
 ' . wp_nonce_field('update-options') . '
 <table class="form-table" width="100%" cellpadding="10">
 <tbody>
